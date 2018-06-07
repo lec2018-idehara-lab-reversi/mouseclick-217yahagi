@@ -214,7 +214,13 @@ void gameset(){
   //else if (ALLcantput(KURO)>ALLcantput(SHIRO))print("黒の勝ち");
   //else print("同点");
 }
-
+class AI{
+  
+  void checkput{
+    
+  }
+  
+}
 void draw()
 {
   game();
